@@ -9,3 +9,6 @@
 # onion dosa
 * Dosa batter added for onion
 * OIL added
+# Potato dosa
+* Dosa batter added
+* OIL added
