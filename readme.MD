@@ -12,3 +12,6 @@
 # Potato dosa
 * Dosa batter added
 * OIL added
+# masala dosa 
+* Dosa batter added
+* Oil added
